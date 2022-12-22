@@ -12,6 +12,7 @@ CacheSize [-get] [-setmax dd] [-reset]
   -reset            Disable hard cache size size limit.
 ```
 
+## Examples
 ```
 c:\>cachesize -get 
 Cache Size Min:            1,024 KB
